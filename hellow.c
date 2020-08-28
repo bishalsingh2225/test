@@ -7,5 +7,6 @@ int main() {
    return 0;
 
 ab mere kok kuch smz ni aa rha 
+   le doobara change kia maine
 
 }
